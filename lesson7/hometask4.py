@@ -31,3 +31,4 @@ unique_count = count_unique_characters(message)
 print("Количество уникальных символов в строке: ", unique_count)
 
 
+
